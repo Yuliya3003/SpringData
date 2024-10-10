@@ -1,7 +1,7 @@
-package geekbrains.springData.Service;
+package geekbrains.springData.service;
 
-import geekbrains.springData.Model.Person;
-import geekbrains.springData.Repository.PersonRepository;
+import geekbrains.springData.model.Person;
+import geekbrains.springData.repository.PersonRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.List;
